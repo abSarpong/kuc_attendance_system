@@ -1,0 +1,27 @@
+/** { outline: 1px dotted red !important; }*/
+
+html, body	{ background: #F7F7F7; }
+body { font-family: 'Dosis', sans-serif; letter-spacing: 1px !important; }
+h1,h2,h3,h4,h5,h6 { font-family: 'Oxygen', sans-serif; !important; }
+.menu a, .menu.item { font-family: 'Muli', sans-serif !important; font-weight: 600 !important; font-size: 16px; text-transform: uppercase !important; }
+.spacer-5px { padding-top: 5px !important; }
+.spacer-20px { padding-top: 20px !important; }
+.text-center { text-align: center; }
+.white-text { color: #ffffff; }
+.very-small-text { font-size: 12pt; font-weight: 400 !important; }
+.link { color: red !important; }
+a.link:hover { cursor: pointer !important; }
+.header { height: 300px; }
+/*.footer { height: 60px; }*/
+.no-padding { padding: 0px !important; }
+.no-margin { margin: 0px !important; }
+.header-bg { background-color: #c4c4c4 }
+/*.header-bg { background: linear-gradient(135deg, #e1c02c 0%, #e1932c 100%) }*/
+/*.footer-bg { background-color: #4b4b4b; }*/
+.canvas { height: 1550px; background-color: #FBFBFB !important; border-radius: 0 0 0px 0px !important; }
+.nav {  background-color: #ffffff; padding-left: 10px; border-radius: 0px 0px 0 0 !important; }
+.menu a:hover { color: #bf931b !important; }
+.very-small-text { font-size: 12pt; font-weight: 400 !important; }
+.very-very-small-text { font-size: 10pt; font-weight: 400 !important; }
+.profile-image { border-radius: 50px; width: 45px }
+.kuc-logo { border-radius: 50px; width: 250px }

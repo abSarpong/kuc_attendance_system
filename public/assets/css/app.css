@@ -1,0 +1,31 @@
+/** { outline: 1px dotted red !important; }*/
+
+html, body	{ background: ; }
+body { font-size: 17pt !important; font-weight: 400 !important; font-family: 'Heebo', sans-serif !important; }
+h1,h2,h3,h4,h5,h6 { font-weight: 100; font-family: 'Oxygen', sans-serif; }
+.container { width: 450px; margin: 0 auto; position: relative; top: 100; }
+.login-form { background-color: #ffffff !important; }
+.spacer-5px { padding-top: 5px !important; }
+.spacer-20px { padding-top: 20px !important; }
+.text-center { text-align: center; font-weight: 100; }
+.very-very-small-text { font-size: 16px; font-weight: 100 !important; font-family: 'Heebo', sans-serif !important; }
+.pale { color: #BDC3C7; }
+.white-text { color: #ffffff; }
+.ui.button.primary-button { background-color: #F39C1; color: #fffff; letter-spacing: 1px; font-weight: 100; border-radius: 5px !important; }
+.ui a.secondary-button { padding: 10px 20px; color: rgba(0,0,0,.6); }
+.ui a.secondary-button:hover { background-color: #c4c4c4; padding: 10px 20px; border-radius: 5px !important; }
+.very-small-text { font-size: 12pt; font-weight: 400 !important; }
+.link { color: red !important; }
+a.link:hover { cursor: pointer !important; }
+.form-label { font-family: 'Muli', sans-serif !important; font-size: 14pt !important; font-weight: 200 !important; }
+.text-left { text-align: left !important; }
+.gray-text { color: #666666 !important }
+.black-text { color: #000000 !important; }
+.body-text { color: #6a6a6a; font-size: 14px !important; }
+.margin-top-20px { margin-top: -20px !important; }
+.margin-top-10px { margin-top: -10px !important; }
+.statistic-label { font-size: 16px; font-weight: 400 !important; font-family: 'Muli', sans-serif !important; }
+.statistic-value { font-size: 24pt; font-weight: 700 !important; font-family: 'Oxygen', sans-serif !important; }
+th { font-family: 'Muli', sans-serif !important; font-weight: 800 !important; font-size: 12px !important; text-transform: uppercase !important; }
+h4.heading { font-family: 'Muli', sans-serif !important; font-weight: 200 !important; font-size: 20pt !important; }
+h2.heading { font-family: 'Muli', sans-serif !important; font-weight: 600 !important; font-size: 22pt !important; }
